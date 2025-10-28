@@ -27,8 +27,8 @@ A Student Management System demonstrating the same OOP concepts in Java:
 **To run:**
 ```bash
 cd oop-examples/java
-javac Student.java
-java GraduateStudent
+javac StudentDemo.java
+java StudentDemo
 ```
 
 ## Learning Resources
