@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Genius201
 - 👀 I’m interested in ...Software Development 
-- 🌱 I’m currently learning ...Object-Oriented Computer Programming CIS361
+- 🌱 I’m currently learning ...how to integrate your portfolio
 - 💞️ I’m looking to collaborate on ...Any Project That I can learn from.
 - 📫 How to reach me ...On multiple channels, contact me on LinkedIn to start
 
